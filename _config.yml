@@ -71,7 +71,9 @@ theme: anatole
 deploy:
   type: git
   repo: https://github.com/nanazero/nanazero.github.io
-  branch: gh-pages
+  branch: master
+  name: nanazero
+  email: nanazero@users.noreply.github.com
 
 
 # Social network
